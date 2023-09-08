@@ -1,0 +1,8 @@
+[
+  {
+    "refreshToken": "google refresh token",
+    "sourceCalendar": "calendar identifier of the source",
+    "targetCalendar": "same but for the target",
+    "timetableHash": ""
+  }
+]
